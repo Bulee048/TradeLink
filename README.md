@@ -85,5 +85,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the app.
 - **Fail-safe Mode**: Backend includes a mock-data fallback if the database connection is slow.
 - **Validation**: Strict input validation on both client and server sides.
 
+DEMO Vedio Link
+https://drive.google.com/file/d/12NSbpvA0aBYH-z3GluAtVBDonnPAsa1g/view?usp=sharing
 ---
 Built by **Nethshan Dulmin** for the GlobalTNA Technical Assessment.
